@@ -26,3 +26,5 @@ The designs were created to the following widths:
 
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
+
+Live at https://rko0211.github.io/QR-code/
