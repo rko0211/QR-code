@@ -6,9 +6,19 @@ body {
     background-color: hsl(212, 45%, 89%);
     
 }
+.info {
+    font-family: 'Federo', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Gothic A1', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
 
 #root {
-    height: 575px;
+    height: 500px;
     width: 314px;
     
     display: flex;
@@ -25,8 +35,8 @@ body {
 .imgcover {
     
     display: flex;
-    height: 60%;
-    width: 90%;
+    height: 56%;
+    width: 95%;
     border-radius: 14px;
     color: hsl(228, 45%, 44%);
     margin-top: -38px
@@ -46,13 +56,3 @@ body {
     color: hsl(220, 15%, 55%)
 }
 
-.info {
-    font-family: 'Federo', sans-serif;
-    font-family: 'Fira Sans', sans-serif;
-    font-family: 'Gothic A1', sans-serif;
-    font-family: 'Lato', sans-serif;
-    font-family: 'Noto Sans', sans-serif;
-    font-family: 'Outfit', sans-serif;
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto', sans-serif;
-}
